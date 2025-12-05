@@ -55,4 +55,4 @@ https://www.canva.com/design/DAG6hBclfjk/NgSpSnO9w0JlgFbxVW58oA/edit?utm_content
 ---
 
 ## Author
-© Tulkiev Alen — https://qw1se.github.io/web-project1
+© Tulkiev Alen — https://github.com/qw1se/Quote-Randomizer
